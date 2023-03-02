@@ -1,0 +1,32 @@
+#lolo{
+    background-color: green;
+    color: white;
+    padding: 60px;
+}
+#ho{
+    color: white;
+    background-color: rgb(29, 27, 27);
+    padding: 20px;
+     word-spacing: 20px;    
+     margin-top: 0px;
+}
+#hi{
+    color: green;
+     text-indent: 80px;
+     
+
+}
+.table{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.class1{
+    color: green;
+}
+/* .class2{
+    color: green;
+}
+.class3{
+    color: green;
+} */
