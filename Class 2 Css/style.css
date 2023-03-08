@@ -1,3 +1,7 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
 #lolo{
     background-color: green;
     color: white;
@@ -23,10 +27,6 @@
 }
 .class1{
     color: green;
+    text-align: center;
 }
-/* .class2{
-    color: green;
-}
-.class3{
-    color: green;
-} */
+
